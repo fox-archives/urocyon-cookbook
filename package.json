@@ -1,0 +1,12 @@
+{
+  "name": "edwins-urocyon-cookbook",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Edwin Kofler",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [],
+  "dependencies": {
+    "prompts": "^2.2.1"
+  }
+}
